@@ -2,6 +2,7 @@
 body{
     margin: 0;
     padding:5px;
+    
     background-color: black;
 
 }
@@ -56,4 +57,13 @@ footer{
     font-style: italic;
     font-weight:400;
     text-decoration: underline;
+}
+.img1{
+    border-radius: 20px;
+}
+.img2{
+    border-radius: 20px;
+}
+.img4{
+    border-radius: 20px;
 }
