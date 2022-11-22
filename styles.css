@@ -34,3 +34,16 @@ footer{
     display:flex;
     justify-content: space-evenly;
 }
+.current{
+    text-decoration: underline;
+    font-weight: bold;
+}
+.future{
+    text-decoration: underline;
+    font-weight: bold;  
+}
+.hobbies{
+    text-decoration: underline;
+    font-weight: bold;  
+}
+}
