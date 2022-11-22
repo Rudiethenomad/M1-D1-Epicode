@@ -26,6 +26,8 @@ main{
     background-color:rgb(190, 166, 133);
     margin-bottom: 0;
     padding:8px;
+   
+    
 }
 
 footer{
@@ -60,6 +62,7 @@ footer{
 }
 .img1{
     border-radius: 20px;
+   
 }
 .img2{
     border-radius: 20px;
