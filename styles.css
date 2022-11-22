@@ -30,3 +30,7 @@ footer{
 
 
 }
+.skills{
+    display:flex;
+    justify-content: space-evenly;
+}
