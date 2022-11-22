@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding:5px;
     
-    background-color: black;
+    background-color:black;
 
 }
 .top_info{
@@ -23,13 +23,13 @@ h2{
 
 }
 main{
-    background-color:rgb(209, 203, 203);
+    background-color:rgb(190, 166, 133);
     margin-bottom: 0;
     padding:8px;
 }
 
 footer{
-    background-color: grey;
+    background-color: rgb(220, 184, 138);
     margin-top: 0;
     padding-top: 5px;
     padding-bottom: 5px;
