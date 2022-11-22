@@ -5,6 +5,11 @@ body{
     background-color: black;
 
 }
+.top_info{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
 
 
 h2{
@@ -45,5 +50,4 @@ footer{
 .hobbies{
     text-decoration: underline;
     font-weight: bold;  
-}
 }
