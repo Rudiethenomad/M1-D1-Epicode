@@ -19,7 +19,7 @@ body{
     align-items: center;
     justify-content: space-between;
    
-
+}
 
 h2{
     font-style: italic;
@@ -38,15 +38,16 @@ main{
 }
 
 #footer{
-    
+   
     background-color: rgb(220, 184, 138);
     margin-top: 0;
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 10px;
-
+   
 
 }
+
 .skills{
     display:flex;
     justify-content: space-evenly;
@@ -77,4 +78,8 @@ main{
 }
 .img4{
     border-radius: 20px;
+}
+.icon{
+    display: flex;
+    flex-direction: row-reverse;
 }
