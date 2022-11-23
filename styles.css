@@ -67,16 +67,30 @@ main{
 .current{
     text-decoration: underline;
     font-weight: bold;
+    font-family: 'Kalam', cursive;
 }
 .future{
     text-decoration: underline;
     font-weight: bold;  
+    font-family: 'Kalam', cursive;
 }
 .hobbies{
     text-decoration: underline;
-    font-weight: bold;  
+    font-weight: bold; 
+    font-family: 'Kalam', cursive;
 }
+.list_0{
+    font-family: 'Kalam', cursive;
 
+}
+.list_1{
+    font-family: 'Kalam', cursive;
+
+}
+.list_2{
+    font-family: 'Kalam', cursive;
+
+}
 .img1{
     border-radius: 20px;
    
@@ -92,6 +106,6 @@ main{
     display: flex;
     flex-direction: row-reverse;
 }
-.link{
+.social{
     text-decoration:brown;
 }
