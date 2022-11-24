@@ -110,3 +110,14 @@ main{
     display: flex;
     flex-direction: row-reverse;
 }
+a:link{
+    color:brown;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+a:visited{
+    color:darkred;
+    background-color: transparent;
+    text-decoration: none;
+}
