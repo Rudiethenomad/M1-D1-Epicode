@@ -114,10 +114,12 @@ a:link{
     color:brown;
     background-color: transparent;
     text-decoration: none;
+    font-family: 'Kalam', cursive;
 
 }
 a:visited{
     color:darkred;
     background-color: transparent;
     text-decoration: none;
+    font-family: 'Kalam', cursive;
 }
